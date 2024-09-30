@@ -1,4 +1,9 @@
 body {
     color:antiquewhite;
-    background-color: red;
+    background-color:darkblue;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
 }
