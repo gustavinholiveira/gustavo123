@@ -1,9 +1,13 @@
 body {
     color:antiquewhite;
     background-color:darkblue;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ul {
     display: flex;
     justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
 }
